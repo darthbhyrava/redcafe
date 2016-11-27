@@ -7,7 +7,8 @@ I'm curious. What can we do with millions of words on a football forum?
 ## Scraped Database Details
 Player Performances Threads, 2015-16 season.
 
-|  _PLAYER_  |  _PAGE COUNT_  |  _POST COUNT_  |  _WORD COUNT_  |
+|   _PLAYER_   |   _PAGE COUNT_   |   _POST COUNT_   |   _WORD COUNT_   |
+|   |   |   |   |
 |  Januzaj  |  59  |  2329  |  111385  |
 |  Herrera  |  67  |  2643  |  101775  |
 |  Pereira  |  34  |  1348  |  48343  |
