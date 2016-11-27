@@ -48,5 +48,8 @@ Player Performances Threads, 2015-16 season.
 | Rooney            | 334   | 13359     | 571970    |
 
 
-36 players. 2045 pages. 80,605 posts. 3,132,945 words.
+### 36 players.
+### 2045 pages.
+### 80,605 posts.
+### 3,132,945 words.
 
