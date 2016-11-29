@@ -5,8 +5,10 @@ I'm curious. What can we do with millions of words on a football forum?
 ---
 
 ## Scraped Database Details
-Player Performances Threads, 2015-16 season.
 
+---
+
+Manchester United, 2015-16.
 
 | PLAYER            | PAGES | POSTS     | WORDS     |
 |----------------   |-----  |-------    |--------   |
@@ -48,8 +50,39 @@ Player Performances Threads, 2015-16 season.
 | Rooney            | 334   | 13359     | 571970    |
 
 
-### 36 players.
-### 2045 pages.
-### 80,605 posts.
-### 3,132,945 words.
+#### 36 players. 2045 pages. 80,605 posts. 3,132,945 words.  
+
+---
+
+Manchester United, 2014-15.
+
+| PLAYER            | PAGES | POSTS     | WORDS     |
+|----------------   |-----  |-------    |--------   |
+| Januzaj           | 104   | 4135      | 200961    |
+| Angel di Maria    | 237   | 9457      | 401607    |
+| Herrera           | 234   | 9325      | 369081    |
+| Pereira           | 37    | 1478      | 60640     |
+| Valencia          | 87    | 3449      | 154689    |
+| Young             | 80    | 3185      | 126325    |
+| Smalling          | 85    | 3367      | 129961    |
+| Blind             | 106   | 4243      | 176201    |
+| DDG               | 93    | 3689      | 130680    |
+| Fletcher          | 25    | 963       | 37453     |
+| Wilson            | 59    | 2360      | 95922     |
+| Evans             | 79    | 3139      | 142909    |
+| Mata              | 139   | 5560      | 269823    |
+| Shaw              | 80    | 3166      | 110997    |
+| Rojo              | 89    | 3526      | 125497    |
+| Fellaini          | 173   | 6922      | 356162    |
+| Carrick           | 43    | 1699      | 70411     |
+| McNair            | 57    | 2253      | 84693     |
+| Jones             | 62    | 2453      | 99571     | 74369, 3143673
+| Falcao            | 272   | 10852     | 11136     |
+| Rafael            | 80    | 3188      | 34448     |
+| RvP               | 107   | 1165      | 40734     |
+| Cleverley         | 86    | 1165      | 40734     |
+| Blackett          | 49    | 199       | 5053      |
+| Rooney            | 160   | 13359     | 571970    |
+
+#### 24 players. 2623 pages. 
 

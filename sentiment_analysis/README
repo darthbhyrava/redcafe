@@ -1,0 +1,16 @@
+We are using a Naive Bayes classifier to perform sentiment analysis of the data. 20% of the data is for training, and the rest is for testing.
+
+The training data consists of posts which are already sentiment marked on a scale of 1 through 5.
+1 - Very Negative
+2 - Negative
+3 - Neutral
+4 - Positive
+5 - Very Positive
+
+The sentiment of the testing data posts will be predicted by the Naive Bayes classifier using this information, and the overall sentiment will be compared against the average rating scores of the three players, to check for accuracy.
+
+Testing:
+Januzaj - 460 posts
+Rashford - 420 posts
+
+
