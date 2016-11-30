@@ -6,6 +6,11 @@ I'm curious. What can we do with millions of words on a football forum?
 
 ## Scraped Database Details
 
+| PLAYERS | PAGES  | POSTS     | WORDS     |
+|---------|------- |-------    |--------   |
+| 60      | 4668   | 185044    | 7565033   |
+
+
 ---
 
 Manchester United, 2015-16.
@@ -76,13 +81,13 @@ Manchester United, 2014-15.
 | Fellaini          | 173   | 6922      | 356162    |
 | Carrick           | 43    | 1699      | 70411     |
 | McNair            | 57    | 2253      | 84693     |
-| Jones             | 62    | 2453      | 99571     | 74369, 3143673
-| Falcao            | 272   | 10852     | 11136     |
-| Rafael            | 80    | 3188      | 34448     |
-| RvP               | 107   | 1165      | 40734     |
-| Cleverley         | 86    | 1165      | 40734     |
-| Blackett          | 49    | 199       | 5053      |
-| Rooney            | 160   | 13359     | 571970    |
+| Jones             | 62    | 2453      | 99571     |
+| Falcao            | 272   | 10852     | 445234    |
+| Rafael            | 80    | 3188      | 136850    |
+| RvP               | 107   | 4257      | 196944    |
+| Cleverley         | 86    | 3423      | 137947    |
+| Blackett          | 49    | 1958      | 80406     |
+| Rooney            | 160   | 6392      | 291034    |
 
-#### 24 players. 2623 pages. 
+#### 24 players. 2623 pages. 104,439 posts. 4,432,088 words.
 

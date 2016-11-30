@@ -18,14 +18,14 @@ opener = urllib2.build_opener(proxy)
 urllib2.install_opener(opener)
 
 # Change pages according to player
-pages = 107
+pages = 160
 count = 0
 # Change Output Filename according to player
-file = open('robin_van_persie_14-15', 'a+')
+file = open('wayne_rooney_14-15', 'a+')
 for i in range(pages):
     page = i+1
     # Change URL according to player
-    url = 'http://www.redcafe.net/threads/robin-van-persie-2014-15-performances.394003/page-%s' % (page)
+    url = 'http://www.redcafe.net/threads/wayne-rooney-2014-15-performances.393849/page-%s' % (page)
     print "Getting Data .................................................. %s/%s pages scraped." % (page, pages)
     response = urllib2.urlopen(url)
     data = response.read()
