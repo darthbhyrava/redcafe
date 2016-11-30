@@ -1,10 +1,12 @@
-# Sriharsh Bhyravajjula, 2016 (Gandalf Greyhame)
-# A script to get the contents of all the posts in a thread from redcafe.net
-# Change the URLs and page as required (see ./URLs/url_list_players.txt)
+# A script to get the contents of all the posts in a thread from the RedCafe forum.
+# Change the URLs, output file names and page numbers as required (see ./URLs/url_list_players.txt).
+#
+# Sriharsh Bhyravajjula, 2016
 
 from bs4 import BeautifulSoup
 import urllib2
 
+# Method to remove unwanted data.
 def remover(el, tag='div', className=''):
     if className:
         for div in el.find_all(tag, { 'class' : className }): 
@@ -13,6 +15,7 @@ def remover(el, tag='div', className=''):
         for div in el.find_all(tag): 
             div.decompose()
 
+# Change proxy settings as fit.
 proxy = urllib2.ProxyHandler({'http': 'proxy.iiit.ac.in:8080'})
 opener = urllib2.build_opener(proxy)
 urllib2.install_opener(opener)
@@ -20,8 +23,10 @@ urllib2.install_opener(opener)
 # Change pages according to player
 pages = 160
 count = 0
+
 # Change Output Filename according to player
 file = open('wayne_rooney_14-15', 'a+')
+
 for i in range(pages):
     page = i+1
     # Change URL according to player
