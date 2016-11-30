@@ -10,6 +10,9 @@ I'm curious. What can we do with millions of words on a football forum?
 |---------|------- |-------    |--------   |
 | 60      | 4668   | 185044    | 7565033   |
 
+__Average Words/Page__ : 1620.6
+__Average Words/Post__ : 40.8
+__Average Posts/Page__ : 39.6
 
 ---
 
