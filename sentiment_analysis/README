@@ -1,4 +1,4 @@
-We are using a Naive Bayes classifier to perform sentiment analysis of the data. 20% of the data is for training, and the rest is for testing.
+We are using a Naive Bayes classifier to perform sentiment analysis of the data. ~20% of the data is for training, and the rest is for testing.
 
 The training data consists of posts which are already sentiment marked on a scale of 1 through 5.
 1 - Very Negative
@@ -10,7 +10,9 @@ The training data consists of posts which are already sentiment marked on a scal
 The sentiment of the testing data posts will be predicted by the Naive Bayes classifier using this information, and the overall sentiment will be compared against the average rating scores of the three players, to check for accuracy.
 
 Testing:
-Januzaj - 460 posts
-Rashford - 420 posts
+Januzaj, Rashford, De Gea - 350 posts sentiment annotated.
 
-
+METHOD:
+1) Find p(word|sentiment) and p(sentiment).
+2) As a result, find p(sentiment|word) for all words in training data.
+3) Then calculate p(sentiment|post) for all sentiments for each posts, and assign sentiment with highest probabilty.
