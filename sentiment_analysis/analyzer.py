@@ -72,7 +72,7 @@ for i in tmp:
         if (total_lhood[m])*(p_sent[m])>=max_l:
             max_l = (total_lhood[m])*(p_sent[m])
             max_s = m+1
-    f3 = open('./results/rashford_final','a+')
+    f3 = open('./results/rash_final','a+')
     final_write = str(index) + "\t" + str(max_s) + "\n\n"
     f3.write(final_write)
     total_sentiment += max_s
